@@ -151,7 +151,21 @@ dtype: int64
  [1.0 0.0 0.0 -0.4497366439748436 0.20564033932252992]]
 ```
 
-## Author Info
+## Acknowledgements
 
-*   **Soheil Tehranipour**
+This project was inspired by educational materials by Soheil Tehranipour. All code, explanations, and documentation have been fully rewritten by mehran Asgari for portfolio and educational purposes.
+
 *   Website: [http://www.iran-machinelearning.ir](http://www.iran-machinelearning.ir)
+*   
+---
+
+**Author:** mehran Asgari
+**Email:** [imehranasgari@gmail.com](mailto:imehranasgari@gmail.com).
+**GitHub:** [https://github.com/imehranasgari](https://github.com/imehranasgari).
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License – see the `LICENSE` file for details.
+
